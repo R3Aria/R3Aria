@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aria.
 - 👀 I’m interested in gaming, coding and anime
-- 🌱 I’m currently learning web and software development
+- 🌱 I’m currently learning web development
 - 😄 Pronouns: she/they
 
 <!---
