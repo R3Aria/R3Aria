@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aria but you can also call me Lumia, Xea, Skye or Cyn.
+- 👋 Hi, I’m Aria but you can also call me Lumia, Xea, Xena, Skye or Cyn.
 - 👀 I’m interested in gaming, coding and anime
 - 🌱 I’m currently learning web development and am in uni to get a software engineering diploma
 - 😄 Pronouns: she/they
